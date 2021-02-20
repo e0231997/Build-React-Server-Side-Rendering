@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro");
+$fontDefault: "Crimson Pro";
+
+body {
+  font-family: $fontDefault;
+  font-size: 1em;
+  color: #fff;
+  background-color: #333;
+  margin: auto;
+  width: 800px;
+}
+
