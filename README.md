@@ -21,3 +21,15 @@ termial 2
 termial 3
 
     yarn server:start
+
+
+### Demo
+
+Server Render
+
+![alt](images/server.png)
+
+
+After 3 sec, Client Render
+
+![alt](images/client.png)
